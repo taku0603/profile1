@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    /*width: 100%;*/
+    max-width: 1280px;
+    margin: auto;
+}
+
+.flex_test-box {
+    display: flex;              /* フレックスボックスにする */
+}
+
+#header {
+    display: flex;
+}
+
+#header h1 {
+    text-align: left;
+    margin: 0.67em 32px;
+}
+
+#header ul {
+    display: flex;
+}
+
+#header li a {
+    color: #24292e;
+    text-align: right;
+}
+#header li a:hover {
+    opacity: 0.7;
+}
+
+#mainvisual { object-fit: contain }
+
+#about {
+    display: flex;
+    /*justify-content: center;*/
+    /*background: #ccc;*/
+    flex-wrap: wrap;
+}
+
+#bicycle { color: red; }
+
+#footer { color: red; }
+
+.wrapper{}
+
+.ul{
+    list-style: none;
+}
+
+h2 {text-decoration: underline;}

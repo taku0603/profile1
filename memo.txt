@@ -1,0 +1,13 @@
+【HTML/CSS コーディング練習】入門編：プロフィールサイト／LP | Codestep（コードステップ） https://code-step.com/profile-menu/
+
+■参考にしたサイト
+コピペOK!初心者でも使える！HTMLの雛形 | ビギナーズハイ https://beginners-high.com/html-temp/
+グローバルナビゲーションの作り方【HTML・CSSコード付き】 https://kisopro.net/blog/programming/global-navigation/
+HTML の画像 - ウェブ開発を学ぶ | MDN https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
+【リセットCSSとは】使い方やおすすめのリセットCSSを紹介 - WEBST8のブログ https://webst8.com/blog/reset-css/
+https://necolas.github.io/normalize.css/8.0.1/normalize.css
+
+text-decoration - CSS: カスケーディングスタイルシート | MDN https://developer.mozilla.org/ja/docs/Web/CSS/text-decoration
+CSSで要素を横並びにする方法まとめ！floatとdisplayで横並びできる - WEBCAMP MEDIA https://web-camp.io/magazine/archives/102456#:~:text=flexbox%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E8%A6%81%E7%B4%A0,%E4%BD%BF%E3%81%86%E3%81%A8%E3%82%88%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%82
+スタイルシート［CSS］/CSSの基本/クラス名を使った指定 - TAG index https://www.tagindex.com/stylesheet/basic/format2.html
+object-fit - CSS: カスケーディングスタイルシート | MDN https://developer.mozilla.org/ja/docs/Web/CSS/object-fit
